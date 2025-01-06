@@ -69,14 +69,23 @@ Outcome: Developed a robust framework that bridges the gap between textual data 
 
 ## 🔧 Skills & Technologies
 -**Programming Languages**: Python (3+ years), SQL (2+ years), Java (intermediate),C++/C (fundamentals).
+
 -**Cloud Technologies**: AWS Certified Solutions Architect – Associate.
--**Workforce Analytics Tools**: Workday Adaptive Planning, Orgvue, Anaplan Workforce Planning
+
+-**Workforce Analytics Tools**: Workday Adaptive Planning, Orgvue, Anaplan Workforce Planning.
+
 -**Distributed Systems**: Experienced in optimizing distributed databases, fault tolerance, and scaling architectures.
+
 -**Machine Learning**: CNNs, Random Forests, SVM, Naive Bayes (applied in projects like Drowsiness Detection System).
+
 -**ETL & Data Engineering**: ETL processes (Python, SQL), Data Warehousing, Relational Data Modeling.
+
 -**Networking Fundamentals**: TCP/IP, DNS, subnets, and security groups (AWS).
+
 -**Data Visualization**: Tableau (2+ years).
--**CI/CD Tools**: Jupyter Notebook, Replit, Codio.**
+
+-**CI/CD Tools**: Jupyter Notebook, Replit, Codio.
+
 Other: Optimization techniques, algorithm development, statistical analysis, data cleaning, and agile methodologies.
 
 
