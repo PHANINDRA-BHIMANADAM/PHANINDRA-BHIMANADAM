@@ -25,7 +25,10 @@ I'm PHANINDRA BHIMANADAM, a passionate Tech Lover with a diverse background in *
 - **Data-Driven Decision Making**: Leveraging my skills in **Data Science** and **AI**,Predictive Modeling, Machine Learning, Data Visualization, I transform raw data into actionable insights that drive business outcomes.
 - **Project Management**: SAFe Agile, Scrum, User Stories, Personas, Epics, Features, and Sprints. I use **Agile methods** to streamline workflows, improve teamwork, and deliver results in manageable steps. 
 - **Cloud Mastery**: Cloud technologies (AWS, Azure) are my playground. Whether it's building serverless apps or designing scalable infrastructure, I'm all in.
-- **Leadership & Collaboration**: As a former Student Union President, I led a team of 8 students under the guidance of 2 lecturers to implement the **Learn from Home** initiative during the COVID-19 lockdown, ensuring 700+ students received quality education. Using **Workday Adaptive Planning and Agile methodologies**, I managed and optimized timetables for over 25 lecturers. Through **Agile sprints**, We continuously monitored attendance, adjusted schedules, and ensured smooth execution of virtual sessions. This experience sharpened my leadership, resource management, and project coordination skills, making me adept at managing large-scale projects under tight deadlines.
+- 
+## 🤵🏻 Leadership & Collaboration
+
+As a former Student Union President, I led a team of 8 students under the guidance of 2 lecturers to implement the **Learn from Home** initiative during the COVID-19 lockdown, ensuring 700+ students received quality education. Using **Workday Adaptive Planning and Agile methodologies**, I managed and optimized timetables for over 25 lecturers. Through **Agile sprints**, We continuously monitored attendance, adjusted schedules, and ensured smooth execution of virtual sessions. This experience sharpened my leadership, resource management, and project coordination skills, making me adept at managing large-scale projects under tight deadlines.
 
 ## 🚀 Noteworthy Projects
 
