@@ -72,7 +72,7 @@ Outcome: Developed a robust framework that bridges the gap between textual data 
 
 -**Cloud Technologies**: AWS Certified Solutions Architect – Associate.
 
--**Workforce Analytics Tools**: Workday Adaptive Planning, Orgvue, Anaplan Workforce Planning.
+-**Workforce Analytics Tools**: Workday Adaptive Planning, Planful, cube, Anaplan Workforce Planning.
 
 -**Distributed Systems**: Experienced in optimizing distributed databases, fault tolerance, and scaling architectures.
 
