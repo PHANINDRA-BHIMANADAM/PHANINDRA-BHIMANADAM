@@ -1,7 +1,7 @@
 # Welcome to My Digital Playground! 🌟
 
 Hello, fellow tech enthusiasts! 👋  
-I'm PHANINDRA BHIMANADAM, a passionate Tech Lover with a diverse background in **Data Science**, **HR Technologies**, **COMPUTER SCIENCE**, **workforce strategy, planning, and analytics**, **Cloud Computing**, **AI/ML**, and a strong foundation in **Embedded Systems** and **VLSI**. I believe that code is not just a tool but a canvas for creating the future. My goal is to build innovative solutions that not only solve problems but also inspire progress. 🚀
+I'm PHANINDRA BHIMANADAM, a passionate Tech Lover with a diverse background in **Data Science**, **HR Technologies**, **Computer Science**, **Workforce Strategy, Planning, and Analytics**, **Cloud Computing**, **AI/ML**, and a strong foundation in **Embedded Systems** and **VLSI**. I believe that code is not just a tool but a canvas for creating the future. My goal is to build innovative solutions that not only solve problems but also inspire progress. 🚀
 
 ## 🎓 A Bit About Me
 
